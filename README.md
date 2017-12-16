@@ -34,6 +34,15 @@ know much about it, but that doesn't mean I can't write in it.
 Started:
 * ~~gigasecond~~
 * ~~bob~~
+* ~~acronym~~
+* ~~isogram~~
+* ~~hamming~~
+* ~~raindrops~~
+* ~~space-age~~
+* ~~scrabble-score~~
+* ~~difference-of-squares~~
+* ~~two-fer~~
+* luhn
 
 
 
