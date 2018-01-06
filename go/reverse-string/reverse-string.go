@@ -4,9 +4,10 @@ package reverse
 
 // String reverses a string
 func String(s string) string {
-	reversed := ""
+	var reversed []byte
 	for i := len(s) - 1; i >= 0; i-- {
-		reversed += string(s[i])
+		reversed = append(reversed, s[i])
 	}
-	return reversed
+	reversedString := string(reversed)
+	return reversedString
 }
