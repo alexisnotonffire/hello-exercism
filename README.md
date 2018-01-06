@@ -42,9 +42,5 @@ Started:
 * ~~scrabble-score~~
 * ~~difference-of-squares~~
 * ~~two-fer~~
-* luhn
-
-
-
-
-
+* ~~luhn~~
+* reverse-string
